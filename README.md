@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to my GitHub! I'm Gonzalo Allendes, an aspiring Software Engineer interested in web applications,
+data science, machine learning, and so many other fields of computer science.
+
+## About Me
+
+- 🔭 I’m currently working on class projects in private repositories.
+
+- 🌱 I’m learning ```data science``` with ```python```, ```vue.js```, ```node.js```, ```database management```, ```web applications```, and ```arduino``` with a ```microchip``` board!
+- 📫 How to reach me: [gallende@asu.edu](mailto:gallende@asu.edu)
 
 <!--
 **gallendes/gallendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
