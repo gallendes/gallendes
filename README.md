@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Welcome to my GitHub! I'm Gonzalo Allendes, an aspiring Software Engineer interested in web applications,
-data science, machine learning, and so many other fields of computer science.
+data science, machine learning, and all branches of computer science.
 
 ## About Me
 
