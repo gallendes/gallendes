@@ -5,9 +5,9 @@ data science, machine learning, and all branches of computer science.
 
 ## About Me
 
-- 🔭 I’m currently working on class projects in private repositories.
-
-- 🌱 I’m learning ```data science``` with ```python```, ```vue.js```, ```node.js```, ```database management```, ```web applications```, and ```arduino``` with a ```microchip``` board!
+- 🔭 Most of my projects are in private repositories. I am awaiting clearance to publicly release a Data Science project where I utilized Machine Learning algorithms to predict Environmental Performance Index scores based on renewable energy data.
+- ⚡ For now, my public GitHub profile shows a hackathon contribution.
+- 🌱 I’m learning ```data science``` with ```python```, ```vue.js```, ```node.js```, ```database management```, ```web applications```, ```aws```, and ```arduino``` with a ```microchip``` board!
 - 📫 How to reach me: [gallende@asu.edu](mailto:gallende@asu.edu)
 
 <!--
