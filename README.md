@@ -1,12 +1,12 @@
-# Hi there 👋
+# Hi there
 
 Welcome to my GitHub! I'm Gonzalo Allendes, an aspiring Software Engineer interested in web applications,
 data science, machine learning, and all branches of computer science.
 
 ## About Me
 
-- 🔭 Most of my projects are in private repositories. I am awaiting clearance to publicly release a Data Science project where I utilized Machine Learning algorithms to predict Environmental Performance Index scores based on renewable energy data.
-- ⚡ For now, my public GitHub profile shows a hackathon contribution.
+- 🔭 I recently released a Data Science project where I utilized Machine Learning algorithms to predict Environmental Performance Index scores based on renewable energy data.
+- ⚡ My public GitHub profile now showcases this project along with my contribution to a hackathon.
 - 🌱 I’m learning ```data science``` with ```python```, ```vue.js```, ```node.js```, ```database management```, ```web applications```, ```aws```, and ```arduino``` with a ```microchip``` board!
 - 📫 How to reach me: [gallende@asu.edu](mailto:gallende@asu.edu)
 
