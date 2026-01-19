@@ -1,14 +1,6 @@
-# Hi there
+Software Engineer specializing in **Android frontend development** and **end-to-end mobile-web systems**, with production experience spanning Kotlin (MVVM), on-device ML (ONNX), hardware integration (ESC/POS), Next.js web platforms, and Firebase-based backends.
 
-Welcome to my GitHub! I'm Gonzalo Allendes, an aspiring Software Engineer interested in web applications,
-data science, machine learning, and all branches of computer science.
-
-## About Me
-
-- 🔭 I recently released a Data Science project where I utilized Machine Learning algorithms to predict Environmental Performance Index scores based on renewable energy data.
-- ⚡ My public GitHub profile now showcases this project along with my contribution to a hackathon.
-- 🌱 I’m constantly working with ```python```, ```next.js```, ```database management```, ```web applications```, ```aws```, ```docker```, and ```arduino``` with a ```microchip``` board!
-- 📫 How to reach me: [gallende@asu.edu](mailto:gallende@asu.edu)
+📫 **Contact:** [gallende@asu.edu](mailto:gallende@asu.edu)
 
 <!--
 **gallendes/gallendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
